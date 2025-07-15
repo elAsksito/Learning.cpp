@@ -2,6 +2,9 @@
 using namespace std;
 
 int main(){
+
+    cout << "Empezando el programa" << endl;
+
     // Hello World!
     cout << "Hello World!"  << endl;
 
