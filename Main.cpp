@@ -36,5 +36,7 @@ int main(){
         cout << "Con tu sueldo " << salary << " eres un Senior" << endl;
     }
 
+    cout << "Fin del programa" << endl;
+
     return 0;
 }
